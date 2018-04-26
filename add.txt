@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "on adding ${1} & ${2} "
+sum=$[ ${1} + ${2} ]
+echo "we get ${sum} "
+
